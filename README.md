@@ -1,4 +1,6 @@
-# Reactea
+# My Reactea App
+
+See Reactea [here.](https://github.com/e9x/reactea)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), but was modified according to the [Reactea quickstart](https://github.com/e9x/reactea/blob/master/QUICKSTART.md).
 
