@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Reactea
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), but was modified according to the [Reactea quickstart](https://github.com/e9x/reactea/blob/master/QUICKSTART.md).
+
+This exists to demonstrate the features of Reactea, test functionality, and to develop a user-first experience for Reactea.
 
 ## Available Scripts
 
