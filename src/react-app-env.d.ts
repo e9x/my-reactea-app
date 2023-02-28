@@ -1,1 +1,2 @@
-/// <reference types="react-scripts" />
+/// <reference types="@reactea/core/env" />
+/// <reference types="@reactea/sass/env" />
